@@ -1,6 +1,6 @@
 ```bash
 yarn
-yarn run webpack
+yarn webpack
 
 # or
 
